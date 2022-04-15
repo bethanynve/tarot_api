@@ -1,0 +1,37 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#content {
+  width: 50vw;
+  margin: 10vh 0 0 20vw;
+}
+
+h1 {
+  font-size: 32px;
+  color: red;
+}
+
+h2 {
+  font-size: 28px;
+  color:blue;
+}
+
+h3 {
+  font-size: 24px;
+  color: green; 
+}
+
